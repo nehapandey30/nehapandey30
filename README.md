@@ -61,7 +61,7 @@ AI Engineering • Advanced DSA • Machine Learning • LLM Applications
 
 - [LinkedIn](https://www.linkedin.com/in/neha-pandey-a04745420/)
 - [GitHub](https://github.com/nehapandey30)
-
+- [LeetCode](https://leetcode.com/u/pandeyneha129/)
 ---
 
 ⭐ Thanks for visiting my profile!
