@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Neha Pandey 👋
 
-<!--
-**nehapandey30/nehapandey30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I’m a B.Tech Computer Science student passionate about building practical software and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Currently exploring **AI, Machine Learning, LLMs & RAG**
+- 🐍 Learning and building with **Python**
+- 💻 Practicing **C++ & DSA**
+- 🚀 Building projects to strengthen my software engineering skills
+- 🌱 Continuously learning and improving
+
+## 🛠️ Skills
+
+**Languages:**  
+Python • C++ • HTML • CSS • JavaScript
+
+**Core:**  
+Data Structures & Algorithms • Problem Solving • Git & GitHub
+
+**AI / ML:**  
+AI • Machine Learning • LLMs • RAG • Prompt Engineering
+
+**Backend & Tools:**  
+FastAPI • REST APIs • Git • GitHub
+
+## 🚀 Featured Project
+
+### AIra — Multimodal AI Assistant
+
+A deployed AI assistant that supports:
+
+- 💬 AI Chat with streaming responses
+- 📄 PDF-based RAG and document Q&A
+- 🖼️ Image understanding
+- 🧠 Explicit memory
+- 🔎 Web search and utility tools
+- 🎙️ Voice input and output
+- 💾 Chat history and chat management
+
+**Tech:** Python • FastAPI • Groq • RAG • JavaScript • HTML • CSS
+
+## 📊 Currently Learning
+
+AI Engineering • Advanced DSA • Machine Learning • LLM Applications
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/neha-pandey-a04745420/)
+- [GitHub](https://github.com/nehapandey30)
+
+---
+
+⭐ Thanks for visiting my profile!
