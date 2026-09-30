@@ -13,16 +13,29 @@ I’m a B.Tech Computer Science student passionate about building practical soft
 ## 🛠️ Skills
 
 **Languages:**  
-Python • C++ • HTML • CSS • JavaScript
+Python 
+•C++ 
+•HTML 
+• CSS 
+• JavaScript
 
 **Core:**  
-Data Structures & Algorithms • Problem Solving • Git & GitHub
+Data Structures & Algorithms 
+• Problem Solving 
+• Git & GitHub
 
 **AI / ML:**  
-AI • Machine Learning • LLMs • RAG • Prompt Engineering
+AI 
+• Machine Learning 
+• LLMs 
+• RAG 
+• Prompt Engineering
 
 **Backend & Tools:**  
-FastAPI • REST APIs • Git • GitHub
+FastAPI 
+• REST APIs 
+• Git 
+• GitHub
 
 ## 🚀 Featured Project
 
